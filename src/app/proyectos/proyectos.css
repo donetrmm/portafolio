@@ -1,0 +1,10 @@
+.card-desc{
+    display: flex;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    justify-content: space-around;
+    margin: 3em;
+    flex-wrap: wrap;
+
+}

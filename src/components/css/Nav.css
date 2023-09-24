@@ -1,0 +1,11 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 1em;
+    background-color: #202022;
+    color: white;
+    width: 100%;
+    font-size: 16px;
+}

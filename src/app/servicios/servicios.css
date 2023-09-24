@@ -1,0 +1,8 @@
+.servicios-cards{
+    display: flex;
+    align-items: center;
+    margin: 4em;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

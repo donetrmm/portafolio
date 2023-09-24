@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #202022;
+    color: white;
+    
+}
+header{
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.about{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+}
+
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+    background-color: white;
+    color: black;
+    flex-wrap: wrap;
+}
+.boxSocial{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 50%;
+    align-items: center;
+}
+.boxInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 90%;
+}

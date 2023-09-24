@@ -1,0 +1,16 @@
+.card-description{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    padding: 3em;
+    margin: 1em;
+    min-width: 33.33%;
+    max-height: 33.33%;
+}
+a{
+    text-decoration: none;
+}
