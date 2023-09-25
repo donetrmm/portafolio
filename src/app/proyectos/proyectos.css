@@ -4,7 +4,7 @@
     height: auto;
     align-items: center;
     justify-content: space-around;
-    margin: 3em;
+    margin: 2em;
     flex-wrap: wrap;
-
+    flex-direction: row;
 }

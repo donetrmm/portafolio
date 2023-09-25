@@ -13,18 +13,18 @@ export default function Proyectos(props) {
 const CardInfo = [
   {
     title: "The Barber's",
-    width: "400",
-    height: "200",
+    width: "250",
+    height: "150",
     src: "/thebarberss.png",
-    parrafo: "Sitio web de citas para una barbería",
+    parrafo: "Sitio web de citas para una barbería.",
     link: "https://github.com/donetrmm/thebarbers"
   },
   {
     title: "CINEMAUP",
-    width: "400",
-    height: "200",
+    width: "250",
+    height: "150",
     src: "/cinemaup.png",
-    parrafo: "Sitio web de series y peliculas",
+    parrafo: "Sitio web de series y peliculas.",
     link: "https://github.com/donetrmm/cinemaup-frontend"
   },
 

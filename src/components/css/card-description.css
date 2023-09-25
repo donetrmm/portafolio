@@ -10,7 +10,10 @@
     margin: 1em;
     min-width: 33.33%;
     max-height: 33.33%;
+    min-width: 45.33%;
+
 }
 a{
     text-decoration: none;
+    
 }
